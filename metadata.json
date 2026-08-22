@@ -1,0 +1,6 @@
+{
+  "name": "AR Cars",
+  "description": "Noleggio auto a breve termine premium. Scegli la tua auto ideale tra la nostra flotta curata e parti senza pensieri con la formula da un giorno a una settimana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
